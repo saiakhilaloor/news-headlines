@@ -1,5 +1,5 @@
 # News-headlines
-Desktop notifications and news reader of top stories 
+This script gives notifications and news reader of top stories 
 
 
 
